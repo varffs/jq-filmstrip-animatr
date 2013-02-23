@@ -5,6 +5,8 @@ Basic filmstrip animation with jQuery
 
 I wrote this plugin when I couldn't find a basic way to create a pauseable animation with html/css/js. It uses a filmstrip image [i.e. each frame after each other in a long horizontal line, left to right] and the css background-position property. It is straightforward to use but in this version 0.9 tailored to what I needed, however it should be clear how to extend it to work for your needs.
 
+[Demo here](http://patrickbest.github.com/jq-filmstrip-animatr/)
+
 Usage
 -----
 
